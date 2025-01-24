@@ -8,7 +8,7 @@ Run the following command in your terminal to install the required library:
 pip install cryptography
 
 Run the script:
-Save the script as encrypt_decrypt.py and execute it.
+Save the script as encrypt_decrypt.py and execute it. python3 encrypt_decrypt.py
 
 Generate a Key:
 Select option 1 to generate and save a key file named secret.key.
